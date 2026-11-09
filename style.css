@@ -411,3 +411,4 @@ p{margin:0}
   .ic{padding:0 6px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+#sklep,#kategorie{scroll-margin-top:130px}@media (max-width:1024px){#sklep,#kategorie{scroll-margin-top:60px}}
